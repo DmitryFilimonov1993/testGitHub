@@ -23,7 +23,6 @@ public class MainActivity extends AppCompatActivity {
 
         MyAdapter adapter = new MyAdapter(new Person().getPersonList());
         recyclerView.setAdapter(adapter);
-        recyclerView.laA
 
     }
 }
